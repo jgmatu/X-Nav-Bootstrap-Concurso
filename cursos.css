@@ -4,6 +4,7 @@ body {
       background-image: url("images/terran-marines-on-the-attack.jpg");
       background-size:contain;
       background-position: top left;
+      background-attachment:local;
       text-align: left;
 }
 
@@ -13,7 +14,7 @@ body {
 }
 
 .transparent {
-   background: rgba(0,0,0,0.6);
+   background: rgba(0,0,0,0.4 );
 }
 
 .img-fluid {
